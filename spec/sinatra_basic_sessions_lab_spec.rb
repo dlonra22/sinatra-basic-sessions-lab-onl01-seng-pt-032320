@@ -1,4 +1,4 @@
-
+require_relative './config/environment'
 describe App do
 
   describe 'GET /' do
